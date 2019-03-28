@@ -1,1 +1,5 @@
-# project-2
+# Klikacz obrazkowy
+
+## opis
+
+Lorem lorem
